@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+}
+h1 {
+  text-align: center;
+}
+.cake {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.cake img {
+  width: 100px;
+  height: 100px;
+  margin-right: 10px;
+}
+.cake h3 {
+  margin: 0;
+}
